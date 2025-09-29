@@ -24,5 +24,9 @@ Anonymized HR records by department and demographic attribute.
 1. Open the dashboard in Power BI.
 2. Use filters for department/location analysis.
 
-## Author
-Project by [Your Name], Data Analyst Intern at Dataspark Analytics LLP.
+##Contact
+Aswathi UK
+Email: aswathiuk034@gmail.com
+LinkedIn: https://www.linkedin.com/in/aswathi-uk-auk034/
+GitHub: https://github.com/Aswathiuk
+
