@@ -5,7 +5,7 @@ Each project demonstrates the ability to clean data, build meaningful KPIs, desi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 power-bi-project/
 │
 ├── Project-1-Name/
