@@ -16,9 +16,9 @@ Anonymized HR records by department and demographic attribute.
 
 ## Visuals
 
-![Diversity Distribution1](DI1.png)
-![Diversity Distribution2](DI2.png)
-![Diversity Distribution3](DI3.png)
+![Diversity Distribution1](D1.png)
+![Diversity Distribution2](D2.png)
+![Diversity Distribution3](D3.png)
 
 ## How to Use
 1. Open the dashboard in Power BI.
