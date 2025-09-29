@@ -17,5 +17,8 @@ This project explores pizza sales through the business framework, with detailed 
 - Open the Power BI file
 - Select pizza category and apply filters for detailed views
 
-## Author
-Project by [Your Name], Data Analyst Intern at Dataspark Analytics LLP
+##Contact
+Aswathi UK
+Email: aswathiuk034@gmail.com
+LinkedIn: https://www.linkedin.com/in/aswathi-uk-auk034/
+GitHub: https://github.com/Aswathiuk
